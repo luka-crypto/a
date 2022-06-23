@@ -1,4 +1,4 @@
-EMBED_FOOTER_TEXT = "---by zgjafqpa#5534---"
+EMBED_FOOTER_TEXT = "github.com/h0nde/roblox-claimable-group-finder"
 
 DEFAULT_ID_SLACK = 100000
 DEFAULT_RANGES = (
